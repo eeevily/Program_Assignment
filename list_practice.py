@@ -35,3 +35,4 @@ del cities[2]
 del cities[3]
 del cities[4]
 print(cities)
+
